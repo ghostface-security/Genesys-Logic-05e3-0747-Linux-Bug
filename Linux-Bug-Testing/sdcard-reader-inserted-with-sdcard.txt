@@ -1,0 +1,9 @@
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 002: ID 0bda:b85d Realtek Semiconductor Corp. Bluetooth Radio
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 004 Device 004: ID 05e3:0747 Genesys Logic, Inc. USB Storage
+Bus 005 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 005 Device 002: ID 30c9:008e Luxvisions Innotech Limited HP True Vision HD Camera
+Bus 006 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
