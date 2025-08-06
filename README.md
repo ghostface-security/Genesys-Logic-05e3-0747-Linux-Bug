@@ -28,6 +28,7 @@ The issue can be bypassed by using a USB-C port, which is handled by a different
 3. The Technical Explanation
 
 The lsusb command shows the problematic card reader is only detected on a specific USB bus (Bus 004) and only when an SD card is present in the reader. When a different USB port and a USB-C adapter are used, the same device is detected on a different USB bus (Bus 001), confirming that the issue is a driver or controller incompatibility. The USB-C path bypasses the problematic USB-A driver, allowing the card to be read.
+
 4. Testing and Logs
 
 The following files contain the lsusb output from different stages of testing, providing concrete evidence of the behavior described above. These logs were collected on the affected hardware and have been added to this repository for review.
